@@ -15,7 +15,7 @@ h1, h2 {
 /* Encabezado */
 
 header{
-    background: url('/assets/header_background_resized.png') no-repeat center center;
+    background: url('../assets/header_background_resized.png') no-repeat center center;
     background-size: 81% 80%;
     width: 100vw;
     height: 40vh; /* Ajusta el header a la altura de la pantalla */
